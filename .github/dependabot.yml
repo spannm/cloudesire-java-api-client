@@ -15,4 +15,3 @@ updates:
       day: sunday
     registries:
       - cloudesire-maven-group
-    assignees:
